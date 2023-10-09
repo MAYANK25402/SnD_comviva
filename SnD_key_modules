@@ -1,0 +1,11 @@
+There are 5 key modules in the Snd product of the comviva
+
+1. Channel Management  -> handles channel creation and target allocation  (manages channel lifecycle)
+
+2. Inventory Management  -> inventory pricing and price allocation (manages inventoey movement in the sales chain)
+
+3. Warehouse Management  -> warehouse creation and it is a hierarchy management (manages distribution backbone)
+
+4. Dealer Management  -> target view and tracking  (manages mass retail channel that do the tertiary sales)
+
+5. Comission Management  -> target creation  (for defining the comission rules and events)
