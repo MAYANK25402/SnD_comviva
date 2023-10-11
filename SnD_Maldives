@@ -1,0 +1,10 @@
+The functionality of the comviva for the oredoo is the technical, sales and pm.
+
+Rest Api, Gui interface and bulk batch processing of the files.
+
+Rest Api over the HTTPS method using the post method.
+
+Request can be fulfilled by the SYNC AND ASYNC methods
+SYNC -> request comes in and the problem resolvtion is done on the priority basis
+ASYNC -> in this the request comes in and once the acknowledgement is done then the actions are taken accordingly.
+
