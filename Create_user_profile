@@ -1,0 +1,13 @@
+Once the user is created in the system then it will be notified by the following measures 
+
+1. SMS
+2. Email
+
+In SMS -> the user will be notified withe template like notification with the subject and the body of the message for the successulll login, or simply by the notification of the
+          sms 
+
+In Email the user will be notified in the email of it's login id in the device.
+
+In SP users creation the admin have the major role to play it will create the final approval for the user confirmation.
+
+Roles are assigned to the user according to it's criteria which it has been assigned.
