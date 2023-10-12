@@ -1,0 +1,28 @@
+For Partner login into the product or the main file we will do the following things
+
+1. All the partner can login using the Blue Marble Retail System itself, the main thing the user must be created using the rule mentioned in the org's creiteria.
+
+For the External USer login we use the set of the rules to allow access of the main portal.
+
+There are set of rule /TEST CASES like the mannual testing which will be followed to create the external user
+
+--------> first the DMS will ask for the username to enter for the user login
+
+--------> if the name is valid or contains no special characters then user will hit enter
+
+--------> if all the credentials are correct then use will be directed to the next step or else user will be thrown out by getting message invalid credentials
+
+--------> once all the credentials are correct then user will be asked to give the password according to it's choice
+
+--------> same goes for the passworrd also if all the credentials are good the we are good to go otherwise it will through the same error
+
+--------> if the password is correct then a OTP will be sent to the user's phone no. [not mail it is still not created] 
+
+--------> now user have to give type that OTP in the assigned region and the same process will be followed like username and the password process
+
+
+
+
+
+
+
