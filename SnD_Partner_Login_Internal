@@ -1,0 +1,15 @@
+We have created the external partner now we will create the Internal Partner usin the same process 
+
+--------> It will follow the same procedure like the external user creation 
+
+--------> first it will ask for the same username and the password from the new user login or signup
+
+--------> if all the credentials are correct the it will be diverted to the next procedure
+
+--------> now DMS will send the username and the password details to the LDAP system via the Rest API
+
+--------> LDAP system internally verifies the username details and the password in the internal system
+
+--------> if the successfull login confiremed by the LDAP system the it will provide the Rest API with the success
+
+--------> if the login was not successfull the the LDAP system will provide the Rest API with the message of the actual failure of the messsage to it
