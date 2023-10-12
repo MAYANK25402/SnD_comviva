@@ -1,0 +1,11 @@
+Once all the login and creating the user is successfully done then we move to the role configuration thing
+
+Roles are defined according to the various users like admin, sales manager, distributor, slaes master and so on
+
+new role can be configured using the edit button available in the portal an dwe can view the things using the view eye button
+
+some roles and there features what they can access and what they can't access are
+
+---------> Finance admin access -> have the main power which is the admin access of the whole system
+
+---------> similarly the roles are assigned according to the varios role and responsibilities with the limited permissions
