@@ -1,0 +1,12 @@
+Blue Marble System will support the inventory licensing based on the what sort of the partner it is
+
+Partner can be BP, SP, FOS, internal shop
+
+OMV admin / Warehouse user will select the partner
+
+User will also set the minimu and the maximum threshold value
+
+----------> Blue Marble System will support the inventory licensing based on the warehouse wise
+
+---------> OMV admin user will select the warehouse and inventory and map them in same
+
