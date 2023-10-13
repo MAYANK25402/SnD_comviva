@@ -1,0 +1,14 @@
+ERP System of the Blue Marble system will be the master system for the material code or the item
+
+Price system, discount and all the other stuff will be modified and authorized by the Finance Manager i DMS UI
+
+Material code will be same as of it is efined in the ERP System
+
+-------> Material Configuration can be done using the following methods
+          -----> API Intergration
+          -----> Manual Creation using single
+
+
+--------> Inventory Management can be configured using the attributes
+          ------> category, sub - category, material code, seralized or non - seralized, available etc
+
