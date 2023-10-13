@@ -1,0 +1,12 @@
+# SnD_comviva
+
+This repository basically focus on the SnD Maldives product oredoo
+
+Whole flow is defined in this repository from creating the user to delevring the final product to the en customer
+
+Now the process from handling the inventory and purchasing of the order diffrent test cases are defined 
+
+It can be done through mannual as well as automation testing
+
+In this we have followed the waterfall model in which we cannot shift to next phase untill the first one is completed
+
