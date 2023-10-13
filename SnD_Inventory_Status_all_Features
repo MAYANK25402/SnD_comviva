@@ -1,0 +1,15 @@
+The product will have to support the functionality o fthe inventory stocks and all
+
+Things that will be seen in the status of the inventory are
+
+-----> MAterial product code, inventory serial no., OEC ID, PO Number, Sold Dates and end customer number
+
+Inventory return and refund process 
+
+BP User -> Warehouse
+
+SP User -> Warehouse
+
+OEC User -> Warehouse
+
+Reseller user -> BP User
