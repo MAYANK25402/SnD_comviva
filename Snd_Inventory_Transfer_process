@@ -1,0 +1,11 @@
+Transfer of the inventory will only be supported by the Blue Marble Retail System
+
+Inventory can be transferred between the internal shop to the another internal shop
+
+-----------------> First level approval will be done by the Finance Bank Office
+
+-----------------> Second level of approval will be done by the Finance Manager
+
+Once the approval will be done DMS will send the transfer request to the Destination OEC user
+
+OEC user will accept or reject the request that has come to location
