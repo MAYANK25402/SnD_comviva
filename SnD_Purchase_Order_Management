@@ -1,0 +1,8 @@
+Purchase Order for the Physical Inventory
+
+------> BP/SP user log into the DMS GUO
+DMS page will be displayed
+
+-----> If the quantity is not available a certain time then DMS will show the quantity as not available
+DMS will fetch the price of the inventory and the discount from the database
+
