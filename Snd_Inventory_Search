@@ -1,0 +1,9 @@
+The product will support the functionality of the search or track the inventory 
+
+Using this functionality user can track the inventory and identify the curent location
+
+Following are the features of the inventory search 
+
+-------------> category, inventoey start and serial, description, expiry date, Partner PO number, PO date 
+
+All the functionalities will be checked in the inventory search block in the product UI
