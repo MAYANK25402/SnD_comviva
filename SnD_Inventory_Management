@@ -1,0 +1,11 @@
+The bluemarble retail system will support the inventory management process
+
+---------> inentory can be termed in 2 types the physical and the logical inventory
+
+LOGICAL INVENTORY like the Rastas No. etc
+
+PHYSICAL INVENTORY like the SIM, Device,Charger etc
+
+-------> Now the physical inventory can be defined in 2 types 
+         1. Seralized ---------> Sim, device,voucher etc
+         2. Non - Seralized  -------------> Phone Cover, Charger etc
