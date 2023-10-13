@@ -1,0 +1,20 @@
+This product will also support the inventory replacement feature
+
+This is used to replace the damaged inventory which will be replaced 
+
+--------> Partner go to the replacement order screen and select the type as replacement\
+          and then the locationfrom where he has bought the inventory
+
+DMS will ask for the serials like
+
+---------> PO Wise
+---------> Serial RAnge Wise
+---------> File Upload
+
+
+Partner will select any of the method and then clicks on the submit
+
+Now the DMS will send the notification to the region manager
+
+Partner --> Location Manager --> DMS --> DMS Approval --> Finance BO Approval --> DMS can [Update or Delete]
+
